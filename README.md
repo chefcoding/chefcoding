@@ -19,12 +19,16 @@
 ---
 
 ### 🔧 Tech Stack
-- SwiftUI (입문 중)
-- Git / GitHub
-- Figma (디자인에도 관심 있어요!)
+
+<h3>🧬 Languages and Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
 
 ---
-
 ### 📫 Let's Connect
 - Email: donghee2120@gmail.com
 
