@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm chefcoding 🍏</h1>
+<h1 align="center">👨‍🍳 codingchef</h1>
+<h3 align="center">iOS Developer in Training @ Apple Developer Academy @ POSTECH</h3>
+<p align="center">🚀 Learning Swift | 🎨 Exploring UI/UX | 🌱 Growing one app at a time</p>
 
 <p align="center">
 🌱 Swift로 iOS 개발을 배우고 있는 러너입니다. <br>
