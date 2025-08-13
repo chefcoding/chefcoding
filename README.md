@@ -37,7 +37,6 @@
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefcoding)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chefcoding&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingchef&layout=compact&theme=radical" />
